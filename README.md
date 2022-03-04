@@ -14,5 +14,5 @@ USAGE STEPS:
 3) locate the Container ID from the already running Container. (As shown above)
 
 4) Run this command: 
-docker cp <CONTAINERID>:/opt/crypto/scripts/cryptostocks.png <Desired-Relative-Path-On-Local-Machine>
+docker cp $CONTAINERID:/opt/crypto/scripts/cryptostocks.png $Desired-Relative-Path-On-Local-Machine
 
