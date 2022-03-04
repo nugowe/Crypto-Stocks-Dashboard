@@ -4,8 +4,7 @@ WORKDIR /opt/crypto
 
 COPY . .
 
-RUN apt-get update && apt-get install -y \
-  rsync 
+RUN apt-get update 
  
 RUN install2.r --error \
     polite\
