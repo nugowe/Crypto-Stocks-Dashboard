@@ -1,9 +1,14 @@
+
+Rpackages=c("polite","rvest","kableExtra","gt")
+
+for (i in Rpackages){install.packages(i)} 
+
 library(polite)
 library(tidyverse)
 library(rvest)
 library(kableExtra)
 library(gt)
-library(blastula)
+
 
 
 
