@@ -15,4 +15,7 @@ docker cp ${Cryto-ContainerID-variable}:/opt/crypto/scripts/cryptostocks.png ${d
 
 See Screenshot breakdown:
 
-![Screenshot from 2022-03-04 16-56-07](https://user-images.githubusercontent.com/25004712/156853573-7b62c08f-0c01-4e86-9f16-c1f31ae92ded.png)
+![Screenshot from 2022-03-07 09-52-24](https://user-images.githubusercontent.com/25004712/157072436-2d766868-02c6-4176-9428-843e67e8b4ed.png)
+![Screenshot from 2022-03-07 10-01-16](https://user-images.githubusercontent.com/25004712/157072441-b7a3a836-0ce2-43a2-a405-9960d97a7ddc.png)
+![Screenshot from 2022-03-07 10-01-46](https://user-images.githubusercontent.com/25004712/157072443-cbb23fdc-ddaa-471b-9d3d-e218ea2b6fda.png)
+![Screenshot from 2022-03-07 10-09-13](https://user-images.githubusercontent.com/25004712/157072451-5488f8d5-8dd0-4570-9527-6b0cbfdebbda.png)
