@@ -13,7 +13,7 @@ Navigate to the root folder and run the following commands:
 
 - docker run -d --name crypto-board nosaugowe/crypto
 
-- docker cp ${Cryto-ContainerID-variable}:/opt/crypto/scripts/cryptostocks.png ${desired-relative-path-on-local-machine}
+- docker cp ${Crypto-ContainerID-variable}:/opt/crypto/scripts/cryptostocks.png ${desired-relative-path-on-local-machine}
 
 See Screenshot breakdown:
 
