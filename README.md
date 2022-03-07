@@ -9,11 +9,11 @@ git clone https://github.com/nugowe/Crypto-Stocks-Dashboard.git
 
 Navigate to the root folder and run the following commands:
   
-docker build -t nosaugowe/crypto .
+- docker build -t nosaugowe/crypto .
 
-docker run -d --name crypto-board nosaugowe/crypto
+- docker run -d --name crypto-board nosaugowe/crypto
 
-docker cp ${Cryto-ContainerID-variable}:/opt/crypto/scripts/cryptostocks.png ${desired-relative-path-on-local-machine}
+- docker cp ${Cryto-ContainerID-variable}:/opt/crypto/scripts/cryptostocks.png ${desired-relative-path-on-local-machine}
 
 See Screenshot breakdown:
 
