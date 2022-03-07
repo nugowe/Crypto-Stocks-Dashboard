@@ -5,8 +5,10 @@ This is a Dashboard that displays the current Top 10 Cryptostocks being traded.
 
 USAGE STEPS:
 
+git clone https://github.com/nugowe/Crypto-Stocks-Dashboard.git
+
 Navigate to the root folder and run the following commands:
-   
+  
 docker build -t nosaugowe/crypto .
 
 docker run -d --name crypto-board nosaugowe/crypto
